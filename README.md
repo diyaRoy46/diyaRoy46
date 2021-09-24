@@ -7,4 +7,6 @@ My linkedin account: https://www.linkedin.com/in/diya-roy-345a2a185
 <!---
 diyaRoy46/diyaRoy46 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+---!>
+###What I'm focusing on 👁️👁️
+I'm trying to improve my CSS skills and working on making better grid layouts. I'm also learning more advanced topics of JavaScript and React js.
