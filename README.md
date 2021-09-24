@@ -13,7 +13,7 @@ I'm trying to improve my CSS skills and working on making better grid layouts. I
 
 Not related to technology or work but I enjoy giving life advices to people so if you ever feel down you can just mail me 😁
 
-<img align="left" alt="diyaRoy46's github Stats" src="https://github-readme-stats.vercel.app/api/?username=diyaRoy46&count_private=true&theme=tokyonight&showicons=true"/>
+<img align="left" alt="diyaRoy46's github Stats" src="https://github-readme-stats.vercel.app/api/ username=diyaRoy46&hide=stars&count_private=true&theme=tokyonight&showicons=true"/>
 <img align="left" alt="diyaRoy46's github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyaRoy46&langs_count=5&theme=tokyonight"/>
 
 
