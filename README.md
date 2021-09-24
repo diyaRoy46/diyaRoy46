@@ -4,7 +4,7 @@
 - 📫 To contact me or to collaborate with me you can simply mail me to- stylesjane18@gmail.com or through-
 My linkedin account: https://www.linkedin.com/in/diya-roy-345a2a185
 
-<!---
+<!---Slide In (as you scroll down) Boxes | CSS-Tricks
 diyaRoy46/diyaRoy46 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 ---!>
@@ -13,8 +13,7 @@ I'm trying to improve my CSS skills and working on making better grid layouts. I
 
 Not related to technology or work but I enjoy giving life advices to people so if you ever feel down you can just mail me 😁
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=diyaRoy46&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=diyaRoy46&langs_count=5&theme=tokyonight)]()
-
+<img align="left" alt="diyaRoy46's github Stats" src="https://github-readme-stats.vercel.app/api/?username=diyaRoy46&count_private=true&theme=tokyonight&showicons=true"/>
+<img align="left" alt="diyaRoy46's github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyaRoy46&langs_count=5&theme=tokyonight"/>
 
 
