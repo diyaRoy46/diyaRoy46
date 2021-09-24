@@ -13,5 +13,6 @@ I'm trying to improve my CSS skills and working on making better grid layouts. I
 
 Not related to technology or work but I enjoy giving life advices to people so if you ever feel down you can just mail me 😁
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diyaRoy46&repo=github-readme-stats)](https://github.com/diyaRoy46/github-readme-stats)
+[![Diya's GitHub stats](https://github-readme-stats.vercel.app/api?username=diyaRoy46)](https://github.com/diyaRoy46/github-readme-stats)
+
 
